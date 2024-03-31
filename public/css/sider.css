@@ -1,0 +1,22 @@
+.sider {
+     background-color:beige;
+     width: 200px;
+     height: auto;;
+     padding: 20px;
+     border-radius: 5px;
+     margin-top: 20px  ;
+    
+}
+
+.sider ul li{
+
+     margin: 20px 0;
+}
+
+.sider ul li a{
+     text-decoration: none;
+     color: black;
+}
+.sider ul li a:hover {
+     color: rgb(5, 102, 247);
+}
